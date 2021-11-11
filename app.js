@@ -4,7 +4,7 @@ const express = require("express");
 const app = express();
 //send an HTTP response when receiving HTTP GET /
 app.get("/", (req, res) => {
-  res.send("Hello, your server is up and running and");
+  res.send("Hello, your server is up and running and may not be running and");
 });
 //make the app listen on port
 
