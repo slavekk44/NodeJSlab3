@@ -10,5 +10,6 @@
   },
   "keywords": [],
   "author": "Slawomir Kolodziejczyk",
-  "license": "ISC"
+  "license": "ISC",
+  "dependemcies": {}
 }
